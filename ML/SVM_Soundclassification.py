@@ -1,3 +1,7 @@
+# Dataset : UrbanSound8K
+# 목적 : SVM 성능 테스트
+
+
 ##### import lib
 import queue
 import threading
